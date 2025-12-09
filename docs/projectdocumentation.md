@@ -11,7 +11,7 @@ Scopes & Assumptions:
 - No external web calls or research — the system only uses the supplied product data and internally defined fictional competitor data for comparison.
 - Minimal dependencies: only the Python standard library.
 
-System Design (mandatory):
+System Design :
 - Agents:
   - `ParserAgent`: validates & normalizes the input JSON into an internal model.
   - `QuestionGeneratorAgent`: creates at least 15 categorized Q&A items from the product model.
