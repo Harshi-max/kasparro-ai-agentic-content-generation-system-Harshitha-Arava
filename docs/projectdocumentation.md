@@ -21,7 +21,4 @@ System Design (mandatory):
 - Data flow: Input JSON -> Parser -> Question Generator -> Template Engine (+ Content Blocks) -> Outputs
 - Template format: JSON templates define fields and simple block references. The TemplateEngine resolves fields using content blocks or direct mapping.
 
-Optional diagrams:
-- The pipeline is a simple linear orchestration with independent worker agents. (No diagram included to keep repo compact.)
 
-Do not include per-file explanations — the repo is small and self-explanatory.
