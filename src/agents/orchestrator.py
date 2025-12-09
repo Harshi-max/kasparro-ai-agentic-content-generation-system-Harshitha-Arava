@@ -1,4 +1,4 @@
-"""Orchestrator: coordinates agents and runs the pipeline."""
+
 from dataclasses import dataclass
 from typing import Dict, Any
 import os
