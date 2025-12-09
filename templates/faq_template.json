@@ -1,0 +1,7 @@
+{
+  "type": "faq",
+  "fields": [
+    {"name": "title", "source": "static", "value": "FAQ - {{product_name}}"},
+    {"name": "questions", "source": "block", "block": "generate_faq_questions"}
+  ]
+}

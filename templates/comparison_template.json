@@ -1,0 +1,8 @@
+{
+  "type": "comparison_page",
+  "fields": [
+    {"name": "product_a", "source": "map", "path": "product"},
+    {"name": "product_b", "source": "map", "path": "competitor"},
+    {"name": "comparison_points", "source": "block", "block": "compare_ingredients_block"}
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "comparison_page",
+  "product_a": {
+    "product_name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": "Oily, Combination",
+    "key_ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "how_to_use": "Apply 2-3 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "price": "₹699"
+  },
+  "product_b": {
+    "product_name": "GlowBoost Vitamin C Serum - Alternative",
+    "key_ingredients": [
+      "Vitamin C",
+      "Niacinamide"
+    ],
+    "benefits": [
+      "Brightening",
+      "Hydration"
+    ],
+    "price": "₹799"
+  },
+  "comparison_points": [
+    {
+      "point": "Shared ingredients",
+      "detail": "vitamin c"
+    },
+    {
+      "point": "GlowBoost Vitamin C Serum unique",
+      "detail": "hyaluronic acid"
+    },
+    {
+      "point": "GlowBoost Vitamin C Serum - Alternative unique",
+      "detail": "niacinamide"
+    }
+  ],
+  "product": {
+    "product_name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": "Oily, Combination",
+    "key_ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "how_to_use": "Apply 2-3 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "price": "₹699"
+  },
+  "competitor": {
+    "product_name": "GlowBoost Vitamin C Serum - Alternative",
+    "key_ingredients": [
+      "Vitamin C",
+      "Niacinamide"
+    ],
+    "benefits": [
+      "Brightening",
+      "Hydration"
+    ],
+    "price": "₹799"
+  }
+}

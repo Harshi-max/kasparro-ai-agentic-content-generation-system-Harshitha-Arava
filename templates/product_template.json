@@ -1,0 +1,11 @@
+{
+  "type": "product_page",
+  "fields": [
+    {"name": "name", "source": "map", "path": "product_name"},
+    {"name": "price", "source": "map", "path": "price"},
+    {"name": "skin_type", "source": "map", "path": "skin_type"},
+    {"name": "ingredients", "source": "map", "path": "key_ingredients"},
+    {"name": "benefits", "source": "block", "block": "generate_benefits_block"},
+    {"name": "how_to_use", "source": "block", "block": "extract_usage_block"}
+  ]
+}
